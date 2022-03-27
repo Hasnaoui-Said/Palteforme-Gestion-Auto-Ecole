@@ -38,7 +38,6 @@
                 <li>Chaier de charges:</li>
             </h4>
             <hr>
-            <ul>
                 <li>
                     <p>
                         En tant que visiteurs je peut demmander un service(contacter l'admin), je peut faire un test de
@@ -61,6 +60,6 @@
                 <li>Getsion des clients(id, username,email,password).</li>
                 <li>Getsion des series(id, titre, numero, questions).</li>
                 <li>Gestion des questions(id, image,question, reponse, choix).</li>
-            </ul>
+           
         </ol>
     </ol>
