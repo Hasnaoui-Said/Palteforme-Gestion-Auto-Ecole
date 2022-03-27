@@ -1,5 +1,4 @@
-<body>
-    <h1>Cahier de charge d'une plateforme du gestion d'une auto école:</h1>
+<h1>Cahier de charge d'une plateforme du gestion d'une auto école:</h1>
     <ol type="I">
         <h3>
             <li>Objectif du projet:</li>
@@ -65,5 +64,3 @@
             </ul>
         </ol>
     </ol>
-
-</body>
