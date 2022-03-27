@@ -1,3 +1,5 @@
+
+    <hr><hr><hr><hr>
 <h1>Cahier de charge d'une plateforme du gestion d'une auto école:</h1>
     <ol type="I">
         <h3>
@@ -62,9 +64,4 @@
         </ol>
     </ol>
     <hr><hr><hr><hr>
-    .
-    .
-    .
-    .
-    .
-    .
+    <p>.</p> <p>.</p> <p>.</p> <p>.</p> <p>.</p>
