@@ -38,6 +38,7 @@
                 <li>Chaier de charges:</li>
             </h4>
             <hr>
+            <ul>
                 <li>
                     <p>
                         En tant que visiteurs je peut demmander un service(contacter l'admin), je peut faire un test de
@@ -49,17 +50,17 @@
                 </li>
                 <li>le repondant doit repondre a chaque question dans un temps donner (30s)</li>
                 <li>en tant que client:
-                    <ol type="i">
+                    <ul>
                         <li>je peut voir mes réponses justes et mes erreurs en fin de questionnaire</li>
                         <li>je peut voir la date de mon examen</li>
                         <li>je peut voir le resultat d'examen</li>
                         <li>je peut voir les séances pratiques</li>
-                    </ol>
+                    </ul>
                 </li>
                 <li>l’interface administrateur qui permet la gestion et des series et des questionnaires (crud)</li>
                 <li>Getsion des clients(id, username,email,password).</li>
                 <li>Getsion des series(id, titre, numero, questions).</li>
                 <li>Gestion des questions(id, image,question, reponse, choix).</li>
-           
+            </ul>
         </ol>
     </ol>
