@@ -33,20 +33,15 @@
             <p>L’objectif de cette formation (quizz) est de tester les connaissances du répondant et de lui attribuer un
                 score final, ou, dans le cas d’un test de personnalité, un résultat calculé sur la base d’un score
                 chiffré, ce score peut être attribué en points ou en pourcentage.35/40 ou 73%.</p>
-
-            <h4>
-                <li>Chaier de charges:</li>
-            </h4>
+            <li>Chaier de charges:</li>
             <hr>
             <ul>
                 <li>
-                    <p>
-                        En tant que visiteurs je peut demmander un service(contacter l'admin), je peut faire un test de
-                        code
-                        de conduire de 40 questions, (remarque, avant de voir le resultat de mon test je doit s'inscrire
-                        avec mon login, ou cree un compte dans le cas de creation du compte je doit confermer mon
-                        compte.
-                    </p>
+                    En tant que visiteurs je peut demmander un service(contacter l'admin), je peut faire un test de
+                    code
+                    de conduire de 40 questions, (remarque, avant de voir le resultat de mon test je doit s'inscrire
+                    avec mon login, ou cree un compte dans le cas de creation du compte je doit confermer mon
+                    compte.
                 </li>
                 <li>le repondant doit repondre a chaque question dans un temps donner (30s)</li>
                 <li>en tant que client:
