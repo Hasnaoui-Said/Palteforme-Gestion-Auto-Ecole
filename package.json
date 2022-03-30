@@ -1,0 +1,26 @@
+{
+  "name": "gestion-auto-ecole",
+  "description": "https://hasnaoui-said.github.io/gestion-auto-ecole/\r <h1>Cahier de charge d'une plateforme du gestion d'une auto école:</h1>\r     <ol type=\"I\">\r         <h3>\r             <li>Objectif du projet:</li>\r         </h3>\r         <hr>\r         <p>Le principe mission du projet fut de mise en place la conception d'une plateforme de gestion d'une auto école\r             qui offre le gérant de l'auto-école un outil pour gérer les information de son etablissement et aux\r             condidats, et moniteurs un moyen pour avoir l'information en ligne.</p>\r         <h3>\r             <li>Cahier de charge:</li>\r         </h3>\r         <hr>\r         <h4>L'enrigistrement des nouveaux condidats, moniteurs, et véhicules.</h4>\r         <h5>Les principales fonctionnalités sont :</h5>\r         <ol>\r             <li>La gestion des personnes.</li>\r             <li>La gestion des véhicules.</li>\r             <li>La gestion des examens.</li>\r             <li>La gestion des séances.</li>\r             <li>La gestion des resultats d'examen.</li>\r         </ol>\r         <h3>\r             <li>Bonus: Une formation flexible et personnalisée (quizz, cours d'apprentissage)\r             </li>\r         </h3>\r         <hr>\r         <ol>\r             <h4>\r                 <li>Objectif:</li>\r             </h4>\r             <hr>\r             <p>L’objectif de cette formation (quizz, cours) est de tester les connaissances du répondant et de lui attribuer un\r                 score final, ou, dans le cas d’un test de personnalité, un résultat calculé sur la base d’un score\r                 chiffré, ce score peut être attribué en points ou en pourcentage(35/40 ou 73%).</p>\r             <li>Chaier de charge:</li>\r             <hr>\r             <ul>\r                 <li>\r                     En tant que visiteurs: \r                     <li>Je peut demmander un service(contacter l'admin)</li> \r                     <li>Je peut faire un test de code\r                     de conduire de 40 questions, (remarque, avant de voir le resultat de mon test je doit s'inscrire\r                     avec mon login, ou cree un compte dans le cas de création du compte je doit confirmer mon\r                     compte.</li> \r                 </li>\r                 <li>Le répondant doit repondre a chaque question dans un temps donner (30s)</li>\r                 <li>en tant que client:\r                     <ul>\r                         <li>je peut voir mes réponses justes et mes erreurs en fin de questionnaire</li>\r                         <li>je peut voir la date de mon examen</li>\r                         <li>je peut voir le resultat d'examen</li>\r                         <li>je peut voir les séances pratiques</li>\r                         <li> ... </li> \r                     </ul>\r                 </li>\r                 <li>l’interface administrateur qui permet la gestion et des series et des questionnaires (crud)</li>\r                 <li>Getsion des clients(id, username,email,password).</li>\r                 <li>Getsion des series(id, titre, numero, questions).</li>\r                 <li>Gestion des questions(id, image,question, reponse, choix).</li>\r             </ul>\r         </ol>\r     </ol>\r     <hr><hr><hr><hr>\r     <p>.</p> <p>.</p> <p>.</p> <p>.</p> <p>.</p>",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "autoprefixer": "^10.4.4",
+    "postcss": "^8.4.12",
+    "tailwindcss": "^3.0.23",
+    "vite": "^2.8.6"
+  },
+  "scripts": {
+    "build": "tailwindcss -i ./css/tailwind.css -o ./css/style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hasnaoui-Said/gestion-auto-ecole.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hasnaoui-Said/gestion-auto-ecole/issues"
+  },
+  "homepage": "https://github.com/Hasnaoui-Said/gestion-auto-ecole#readme"
+}
