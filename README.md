@@ -24,7 +24,7 @@
             <li>La gestion des resultats d'examen.</li>
         </ol>
         <h3>
-            <li>Bonus: Une formation flexible et personnalisée (quizz, cours d'apprentissage)
+            <li>Une formation flexible et personnalisée (quizz, cours d'apprentissage)
             </li>
         </h3>
         <hr>
