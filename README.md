@@ -6,7 +6,7 @@
             <li>Objectif du projet:</li>
         </h3>
         <hr>
-       <-- <p>Le principe mission du projet fut de mise en place la conception d'une plateforme de gestion d'une auto école
+       <!-- <p>Le principe mission du projet fut de mise en place la conception d'une plateforme de gestion d'une auto école
             qui offre le gérant de l'auto-école un outil pour gérer les information de son etablissement et aux
             condidats, et moniteurs un moyen pour avoir l'information en ligne.</p>-->
         <p>Dans ce projet file rouge, j'ai réalisé une application web pour la Gestion d’une Auto-école ; L’objectif de cette application est d’offrir au gérant de                   l’auto -école un outil pour gérer les informations de son établissement et aux candidats et moniteurs un moyen pour avoir l’information en ligne.</p>
